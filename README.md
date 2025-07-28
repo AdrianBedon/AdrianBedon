@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋! My name is Adrián and I'm a Software Engineer, from Ecuador</h2>
+<h2 align="center">Hi👋! My name is Adrián and I'm a Software Engineer, from Ecuador</h2>
 
 ###
 
@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="150" src="https://i.pinimg.com/474x/ef/2b/33/ef2b33ce16f3f91d66baaa9740a68798.jpg"  />
+<img align="right" height="100" src="https://i.pinimg.com/474x/ef/2b/33/ef2b33ce16f3f91d66baaa9740a68798.jpg"  />
 
 ###
 
@@ -41,11 +41,5 @@
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
 </div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/AdrianBedon/AdrianBedon/output/snake.svg" alt="Snake animation" />
 
 ###
